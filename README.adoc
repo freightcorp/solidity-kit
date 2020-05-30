@@ -1,0 +1,18 @@
+# solidity-kit
+
+Solidity Boilerplate Repo
+```json
+"from": String,
+"to": String,
+"nonce": Number,
+"gas": Number,
+"gasPrice": String,
+"value": String,
+"hash": String,
+"input": String,
+"v": String,
+"r": String,
+"s": String,
+"blockHash": String, or null when status is 'pending',
+"blockNumber": String, or null when status is 'pending',
+```
